@@ -1,0 +1,9 @@
+{
+  "name": "grading-client",
+  "version": "1.0.0",
+  "description": "Grading client built in React.",
+  "main": "index.js",
+  "repository": "https://github.com/ivanmartinezmorales/grading-client.git",
+  "author": "Ivan Martinez Morales",
+  "license": "MIT"
+}
